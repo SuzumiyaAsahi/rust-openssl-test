@@ -1,0 +1,3 @@
+[workspace]
+members = ["genkeys", "sign", "verify"]
+resolver = "2"
